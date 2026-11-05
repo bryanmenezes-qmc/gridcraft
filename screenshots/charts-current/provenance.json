@@ -1,0 +1,23 @@
+{
+  "capture": "b-format-pane.png",
+  "purpose": "PR #3450 chart element formatting pane",
+  "author": "Bryan Brummelhaus de Menezes",
+  "license": "MIT OR Apache-2.0",
+  "source": {
+    "repository": "bryanmenezes-qmc/gridcraft",
+    "base_commit": "eec622d077d1af33b6ed64a6004228b63a2369d2",
+    "feature_commit": "a22a2c7aaf6f1d0393490938c9cf0af9cce02044",
+    "tested_source_diff_sha256": "ceda8ebfc5aeee97133c3e7e2337bc5188fccc0fa26bda4d2e7944540a8e0f98"
+  },
+  "render": {
+    "width": 1440,
+    "height": 900,
+    "scale": 1,
+    "language": "en",
+    "binary_sha256": "ddc48f41987233cbed6be4391b5ebcdccea96666ce9305a55bcf3b1ee6bdf350",
+    "png_sha256": "9ec787b15121be95b11c2b3dc0199ed8e1b2cc27899d39f11afd0e736ab7c6a9",
+    "command": "snapshot --size 1440x900 --scale 1 --language en --cmd 'range.setValues={"range":"A1","values":[["X","Measured","Comparison"],[1,2,3],[2,4,5],[3,6,8],[4,8,11]]}' --cmd 'insert.chart={"range":"A1:C5","type":"line","subtype":"markers","title":"Chart formatting","at":"E3","width":650,"height":420}' --cmd 'chart.set={"chart":1,"format":{"vertical_gridlines":true,"series":{"0":{"marker":"diamond","marker_size":7,"line_width":2}}}}' --object 1 --pane formatChart --tab 'Chart Design'",
+    "fixture": "Synthetic four-row X/Measured/Comparison data, an inserted line chart, and a diamond-marker override; rendered offscreen by the GridCraft snapshot example."
+  },
+  "content": "Original GridCraft interface and synthetic workbook only. No Microsoft Excel screenshots, third-party fonts, or sample files."
+}

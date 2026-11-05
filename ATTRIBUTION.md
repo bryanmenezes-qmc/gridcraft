@@ -4,6 +4,11 @@ All listed files are original captures of GridCraft's open-source UI with synthe
 
 | File | Source | Capture author | License |
 |---|---|---|---|
+| `screenshots/charts-2380/gui-chart-context.png` | Historical GridCraft chart bundle; exact commit/build not recorded | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
+| `screenshots/charts-2380/gui-title-font.png` | Historical GridCraft chart bundle; exact commit/build not recorded | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
+| `screenshots/charts-2380/gui-chart.png` | Historical GridCraft chart bundle; exact commit/build not recorded | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
+| `screenshots/charts-2380/gui-chart.svg` | Historical GridCraft chart export; exact commit/build not recorded | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
+| `screenshots/charts-current/b-format-pane.png` | Fresh GridCraft synthetic workbook capture; provenance recorded in screenshots/charts-current/provenance.json | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
 | `screenshots/pr-2379/narrow-tabs.png` | GridCraft synthetic offscreen UI; source recorded in provenance.json | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
 | `screenshots/pr-2379/more-tabs.png` | GridCraft synthetic offscreen UI; source recorded in provenance.json | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
 | `screenshots/pr-2379/analysis-chooser.png` | GridCraft synthetic offscreen UI; source recorded in provenance.json | Bryan Brummelhaus de Menezes | MIT OR Apache-2.0 |
