@@ -1,0 +1,292 @@
+[
+  {
+    "case": "narrow-tabs",
+    "source_commit": "5e1b0da8c7e176e2298394c54f9294765c7868e4",
+    "tracked_diff_sha256": "12a8ee586ffcd8e39f315ade2c78fd26d3e80a8d9684703f9fe71a9a3e402bd5",
+    "binary_sha256": "dcb393a395ee1fb739e6b7e97a070c5dc0feb3fcb6d134e42c90c475b9c54ba1",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:08:34.857916+00:00",
+    "file": "screenshots/pr-2379/narrow-tabs.png",
+    "sha256": "c805a3f544e5c5c5c03210c4e346a4852b25e8a30af24967e66c0b37e1eb2951",
+    "size_px": [
+      600,
+      450
+    ]
+  },
+  {
+    "case": "more-tabs",
+    "source_commit": "5e1b0da8c7e176e2298394c54f9294765c7868e4",
+    "tracked_diff_sha256": "12a8ee586ffcd8e39f315ade2c78fd26d3e80a8d9684703f9fe71a9a3e402bd5",
+    "binary_sha256": "dcb393a395ee1fb739e6b7e97a070c5dc0feb3fcb6d134e42c90c475b9c54ba1",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:08:35.318385+00:00",
+    "file": "screenshots/pr-2379/more-tabs.png",
+    "sha256": "473516f23c1c9b60317ce21c1c5cbee4042d0827d141cb5f0b55270e3cfc946a",
+    "size_px": [
+      600,
+      450
+    ]
+  },
+  {
+    "case": "analysis-chooser",
+    "source_commit": "5e1b0da8c7e176e2298394c54f9294765c7868e4",
+    "tracked_diff_sha256": "12a8ee586ffcd8e39f315ade2c78fd26d3e80a8d9684703f9fe71a9a3e402bd5",
+    "binary_sha256": "dcb393a395ee1fb739e6b7e97a070c5dc0feb3fcb6d134e42c90c475b9c54ba1",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:08:35.771978+00:00",
+    "file": "screenshots/pr-2379/analysis-chooser.png",
+    "sha256": "dfb9b9eff823d96f776a59e71a548c2e3d4cf710986c3f7ebbda3d2235735c44",
+    "size_px": [
+      560,
+      450
+    ]
+  },
+  {
+    "case": "analysis-regression",
+    "source_commit": "5e1b0da8c7e176e2298394c54f9294765c7868e4",
+    "tracked_diff_sha256": "12a8ee586ffcd8e39f315ade2c78fd26d3e80a8d9684703f9fe71a9a3e402bd5",
+    "binary_sha256": "dcb393a395ee1fb739e6b7e97a070c5dc0feb3fcb6d134e42c90c475b9c54ba1",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:08:36.218363+00:00",
+    "file": "screenshots/pr-2379/analysis-regression.png",
+    "sha256": "a1c730712a9b33ccc3081e7acde9afad14e856080e72daf8fe2e2a94b934ec84",
+    "size_px": [
+      560,
+      450
+    ]
+  },
+  {
+    "case": "analysis-chooser",
+    "source_commit": "5a3ed86cb6847621e55443ec8da49e71ba59ebf3",
+    "tracked_diff_sha256": "7a1364f717de75667d7de6c3334307c9d6e447258c634df0bfdc4bef6bb995e7",
+    "binary_sha256": "75d4fea0edec86a65057b31cf03ee8282c5047eedc1516bca5cfcab5b5401831",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-03T20:22:27.869395+00:00",
+    "file": "screenshots/pr-2382/analysis-chooser.png",
+    "sha256": "ac632b48a09b493153ae4b799eb7b99b1433df91942cf326e032e6f990ca314b",
+    "size_px": [
+      560,
+      450
+    ]
+  },
+  {
+    "case": "analysis-regression",
+    "source_commit": "5a3ed86cb6847621e55443ec8da49e71ba59ebf3",
+    "tracked_diff_sha256": "7a1364f717de75667d7de6c3334307c9d6e447258c634df0bfdc4bef6bb995e7",
+    "binary_sha256": "75d4fea0edec86a65057b31cf03ee8282c5047eedc1516bca5cfcab5b5401831",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-03T20:22:28.586269+00:00",
+    "file": "screenshots/pr-2382/analysis-regression.png",
+    "sha256": "95bf035bd82a9a5dc068281da69e859fab3b03992b521f594bff56257d1f83cc",
+    "size_px": [
+      560,
+      450
+    ]
+  },
+  {
+    "case": "regression-model-menu",
+    "source_commit": "5a3ed86cb6847621e55443ec8da49e71ba59ebf3",
+    "tracked_diff_sha256": "7a1364f717de75667d7de6c3334307c9d6e447258c634df0bfdc4bef6bb995e7",
+    "binary_sha256": "75d4fea0edec86a65057b31cf03ee8282c5047eedc1516bca5cfcab5b5401831",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-03T20:22:29.320008+00:00",
+    "file": "screenshots/pr-2382/regression-model-menu.png",
+    "sha256": "9de4434482813edabb6156cb42b93d1c44559cbc0a30b2cdd8447d3f4f318948",
+    "size_px": [
+      560,
+      450
+    ]
+  },
+  {
+    "case": "shape-context",
+    "source_commit": "1f31691f0c6cac330015c438730e147d0d31901f",
+    "tracked_diff_sha256": "8b20ac9522aa5fa73e566d4d3faae82b9ed14ede3723ce5b8b15b489585add66",
+    "binary_sha256": "a555b5044bf2261617807586880c3b6bab4a822a4184bc1df51937be665b66db",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:50:23.564227+00:00",
+    "file": "screenshots/pr-2487/shape-context.png",
+    "sha256": "d975879fed093402aab76e53a75b820651ee1cc90f555c16e20b7350ea0db1ce",
+    "size_px": [
+      1200,
+      900
+    ]
+  },
+  {
+    "case": "picture-context",
+    "source_commit": "1f31691f0c6cac330015c438730e147d0d31901f",
+    "tracked_diff_sha256": "8b20ac9522aa5fa73e566d4d3faae82b9ed14ede3723ce5b8b15b489585add66",
+    "binary_sha256": "a555b5044bf2261617807586880c3b6bab4a822a4184bc1df51937be665b66db",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:50:24.085771+00:00",
+    "file": "screenshots/pr-2487/picture-context.png",
+    "sha256": "65c5694b915668933eb5b42dab496b4eff020bf24e3d2638612e8ea05367bf81",
+    "size_px": [
+      1200,
+      900
+    ]
+  },
+  {
+    "case": "slicer-context",
+    "source_commit": "1f31691f0c6cac330015c438730e147d0d31901f",
+    "tracked_diff_sha256": "8b20ac9522aa5fa73e566d4d3faae82b9ed14ede3723ce5b8b15b489585add66",
+    "binary_sha256": "a555b5044bf2261617807586880c3b6bab4a822a4184bc1df51937be665b66db",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:50:24.601773+00:00",
+    "file": "screenshots/pr-2487/slicer-context.png",
+    "sha256": "80640275683feb1faf48f3b0dd7483382f2d78cba56c2b030eec9be9b22ef869",
+    "size_px": [
+      1200,
+      900
+    ]
+  },
+  {
+    "case": "protect-info",
+    "source_commit": "330aa61d628dcf4e702654b30b94480f511df57d",
+    "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "binary_sha256": "e8d21ac146daf9217bb0b4daebe790b53034731cafb59e9b2216727b82b3de1a",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:50:23.552094+00:00",
+    "file": "screenshots/pr-2659/protect-info.png",
+    "sha256": "915565cefd9f20a8443ffbf34258d4057998b8e375ae01403855473726959b51",
+    "size_px": [
+      1200,
+      900
+    ]
+  },
+  {
+    "case": "fill-preview",
+    "source_commit": "b3f77b5dccb3f5d2282ebfc172f86f5cc079aead",
+    "tracked_diff_sha256": "6e1cfe3c673ee0e4b414de4f17b8c7d404f98a3d2a0ded113804c9af1db9c747",
+    "binary_sha256": "974fb5d99ed69f4d07d76c7e7e143a8ad6d15baa443289cf8957655fbda7bad9",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T01:55:31.067976+00:00",
+    "file": "screenshots/pr-2661/fill-preview.png",
+    "sha256": "d827285f99ad10b5e21709ba753894cff526ee4f3fcc487840a01bb3ee8ab6fa",
+    "size_px": [
+      900,
+      650
+    ]
+  },
+  {
+    "case": "fill-cancelled",
+    "source_commit": "b3f77b5dccb3f5d2282ebfc172f86f5cc079aead",
+    "tracked_diff_sha256": "6e1cfe3c673ee0e4b414de4f17b8c7d404f98a3d2a0ded113804c9af1db9c747",
+    "binary_sha256": "974fb5d99ed69f4d07d76c7e7e143a8ad6d15baa443289cf8957655fbda7bad9",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T01:55:31.570035+00:00",
+    "file": "screenshots/pr-2661/fill-cancelled.png",
+    "sha256": "1cbbbf42a50711f2ca8b16fbeba139f6521560cb147c6d2215ee00e463f4e35d",
+    "size_px": [
+      900,
+      650
+    ]
+  },
+  {
+    "case": "context-menu-en-before",
+    "source_commit": "4c5a596d0d8a1a7ed74763f6faee509368e17466",
+    "tracked_diff_sha256": "fa6dfb67279dc9181753233be7fc9c5c7fd9a0b2754bb31e5f365570476115d5",
+    "binary_sha256": "0093a8a6f8bdb9f3c77deec8e513e61bed847c256b7c784fa8ef8480a201f61f",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:27:13.949505+00:00",
+    "file": "screenshots/pr-2663/context-menu-en-before.png",
+    "sha256": "ffc8f06cad1157888f51b09c1974dc6b88342dc5455e05bf4f310394a46cf1d6",
+    "size_px": [
+      560,
+      500
+    ]
+  },
+  {
+    "case": "context-menu-en-after",
+    "source_commit": "4c5a596d0d8a1a7ed74763f6faee509368e17466",
+    "tracked_diff_sha256": "fa6dfb67279dc9181753233be7fc9c5c7fd9a0b2754bb31e5f365570476115d5",
+    "binary_sha256": "0093a8a6f8bdb9f3c77deec8e513e61bed847c256b7c784fa8ef8480a201f61f",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:27:14.503846+00:00",
+    "file": "screenshots/pr-2663/context-menu-en-after.png",
+    "sha256": "2d725f8fc9433e763756ad2ac0295d507c7b3321432f41953239b540345f6d08",
+    "size_px": [
+      560,
+      500
+    ]
+  },
+  {
+    "case": "context-menu-de-before",
+    "source_commit": "4c5a596d0d8a1a7ed74763f6faee509368e17466",
+    "tracked_diff_sha256": "fa6dfb67279dc9181753233be7fc9c5c7fd9a0b2754bb31e5f365570476115d5",
+    "binary_sha256": "0093a8a6f8bdb9f3c77deec8e513e61bed847c256b7c784fa8ef8480a201f61f",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:27:15.064635+00:00",
+    "file": "screenshots/pr-2663/context-menu-de-before.png",
+    "sha256": "58b701bd4edd8cbb64f886dc7a15ad6e070ff5625a109b7aed3095d026545a5d",
+    "size_px": [
+      560,
+      500
+    ]
+  },
+  {
+    "case": "context-menu-de-after",
+    "source_commit": "4c5a596d0d8a1a7ed74763f6faee509368e17466",
+    "tracked_diff_sha256": "fa6dfb67279dc9181753233be7fc9c5c7fd9a0b2754bb31e5f365570476115d5",
+    "binary_sha256": "0093a8a6f8bdb9f3c77deec8e513e61bed847c256b7c784fa8ef8480a201f61f",
+    "host": "Fedora 44; offscreen egui/wgpu harness",
+    "theme": "light",
+    "scale": 1,
+    "fonts": "Pinned craft-fonts harness input; assertions retained",
+    "time_utc": "2026-11-04T02:27:15.623304+00:00",
+    "file": "screenshots/pr-2663/context-menu-de-after.png",
+    "sha256": "597f976d64a94642a20a4c8494e078f54e40697e2438a1bbc6456563579a057d",
+    "size_px": [
+      560,
+      500
+    ]
+  }
+]
+
